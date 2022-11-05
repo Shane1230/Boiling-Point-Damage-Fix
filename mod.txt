@@ -13,9 +13,9 @@
 	],
 	"updates": [
         {
-		"identifier": "bpf",
+		"identifier": "bpdf",
 		"host": {
-		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/BPF?token=GHSAT0AAAAAAB2RL2U7WWVBPVKZTMACG3S4Y3G4ZKA"
+		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/BPDF?token=GHSAT0AAAAAAB2RL2U6QJPLSLHVQGCGLLZOY3G5XWA"
 	 	}
 	}
 	]
