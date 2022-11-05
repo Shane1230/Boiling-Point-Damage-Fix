@@ -15,7 +15,7 @@
         {
 		"identifier": "bpdf",
 		"host": {
-		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/BPDF?token=GHSAT0AAAAAAB2RL2U6QJPLSLHVQGCGLLZOY3G5XWA"
+		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/BPDF"
 	 	}
 	}
 	]
