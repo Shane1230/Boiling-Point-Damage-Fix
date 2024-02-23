@@ -1,0 +1,22 @@
+{
+	"name" : "Boiling Point Damage Fix",
+	"description" : "Boiling Point taser damage fix",
+	"author" : "Shane",
+	"Contact" : "https://steamcommunity.com/id/Shane1230/",
+	"version" : "1.1",
+	"priority": 10,
+	"hooks": [
+		{ 
+			"hook_id" : "lib/tweak_data/levelstweakdata",
+			"script_path" : "levelstweakdata.lua"
+		}
+	],
+	"updates": [
+        {
+		"identifier": "bpdf",
+		"host": {
+		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/BPDF"
+	 	}
+	}
+	]
+}
