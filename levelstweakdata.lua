@@ -30,7 +30,10 @@ self.mad = {
 		music = "heist",
 		package = "packages/lvl_mad",
 		cube = "cube_apply_heist_bank",
-		ai_group_type = america
+		ai_group_type = russia,
+		prevent_carry_disposal = table.list_to_set({
+			"person"
+		})
 	}
 	
 end
